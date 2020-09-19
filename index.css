@@ -9,7 +9,7 @@ img {
   border-radius: 50%;
   margin: auto;
   margin-top: 80px;
-  width: 180px;
+  width: 300px;
 }
 
 h1 {
@@ -94,7 +94,6 @@ h2 {
     width: 1000px;
     margin: auto;
     text-align: left;
-    border: 5px solid blue;
   }
 }
 
@@ -114,7 +113,6 @@ h2 {
     width: 100%;
     margin: auto;
     text-align: left;
-    border: 5px solid blue;
   }
 }
 
